@@ -1,0 +1,27 @@
+.calculator {
+    height:800px;
+    width: 500px;
+    border: 0.05em solid black;
+    display: grid;
+    margin:auto;
+}
+
+.results{
+    height:50px;
+    width: 400px;
+    border: 0.05em solid black;
+    display: grid;
+    margin: 50px;
+}
+
+.buttons button{
+ border: 0.05em solid red;
+ width: 20%;
+ height: 60px;
+ 
+}
+
+
+.keypad{
+    margin: 10px;
+}
